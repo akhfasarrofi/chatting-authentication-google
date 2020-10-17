@@ -37,9 +37,7 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {
-    "jest": "^26.5.3"
-  },
+  "devDependencies": {},
   "author": "zakaria akhfas",
   "license": "MIT",
   "repository": {
