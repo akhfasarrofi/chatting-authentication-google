@@ -41,5 +41,13 @@
     "jest": "^26.5.3"
   },
   "author": "zakaria akhfas",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhfasarrofi/chatting-authentication-google.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akhfasarrofi/chatting-authentication-google/issues"
+  },
+  "homepage": "https://github.com/akhfasarrofi/chatting-authentication-google#readme"
 }
