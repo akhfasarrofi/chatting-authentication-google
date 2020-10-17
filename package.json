@@ -37,9 +37,15 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {
-    "jest": "^26.5.3"
-  },
+  "devDependencies": {},
   "author": "zakaria akhfas",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhfasarrofi/chatting-authentication-google.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akhfasarrofi/chatting-authentication-google/issues"
+  },
+  "homepage": "https://github.com/akhfasarrofi/chatting-authentication-google#readme"
 }
